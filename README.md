@@ -26,6 +26,7 @@ can improve performance.
 |--------|----------|----------|
 | Hybrid Agent (LLM + ORS) | ~2.3 | ~0.8 |
 | Fine-tuned LLM (LoRA) | ~119 | ~63 |
+
 Evaluation metrics were computed offline to enable manual analysis across multiple experiments.
 
 ## Key Takeaways
