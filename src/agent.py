@@ -3,8 +3,7 @@
 Hybrid agent combining LLM reasoning with deterministic routing API calls.
 """
 
-from routes_api import get_route_distance
-
+from src.routes_api import get_route_distance
 
 class HybridRoutingAgent:
     def __init__(self, api_key: str):
